@@ -43,16 +43,19 @@ table {
 }
 /* ************************** */
 header{
-    background-color: #333;
+    background-color:#ffb3c6;
     font-size: 50px;
     text-align: center;
     height: 55px;
 }
 h1{
-     color: red;
+     color: #fb6f92;
 }
 
-div{
-    background-color: aqua;
+body{
+    background-color: #ffe5ec;
 }
 
+.yogi{
+	padding-left: 750px;
+}
